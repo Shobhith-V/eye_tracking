@@ -1,0 +1,50 @@
+﻿No,image_id,stim_id,text,voice,voice_id,image,sentence,audio,session,filename,No_raw,audio_raw,filename_raw,image_id_raw,image_raw,sentence_raw,session_raw,stim_id_raw,text_raw,thisN_raw,thisRepN_raw,thisTrialN_raw,voice_id_raw,voice_raw
+5,IMG_05,STIM_05,The man pushed the box.,active,IMG_05_A,exp_images/images/man_pushed_box.jpg,exp_images/sentences/Pushed-car.jpg,exp_images/audio/pushed_car.wav,voice,Active_List_2,7,exp_images/audio/painting.wav,Active_List_2,IMG_07,exp_images/images/artiste_drew_picture.jpg,exp_images/sentences/Painting.jpg,voice,STIM_07,The artist drew the picture.,0,0,0,IMG_07_A,active
+6,IMG_06,STIM_06,The woman folded the clothes.,active,IMG_06_A,exp_images/images/women_fold_clothes.jpg,exp_images/sentences/Folded-clothes.jpg,exp_images/audio/fold.wav,voice,Active_List_2,5,exp_images/audio/pushed_car.wav,Active_List_2,IMG_05,exp_images/images/man_pushed_box.jpg,exp_images/sentences/Pushed-car.jpg,voice,STIM_05,The man pushed the box.,1,0,1,IMG_05_A,active
+7,IMG_07,STIM_07,The artist drew the picture.,active,IMG_07_A,exp_images/images/artiste_drew_picture.jpg,exp_images/sentences/Painting.jpg,exp_images/audio/painting.wav,voice,Active_List_2,8,exp_images/audio/vase.wav,Active_List_2,IMG_08,exp_images/images/boy_broke_vase.jpg,exp_images/sentences/Vase.jpg,voice,STIM_08,The boy broke the vase.,2,0,2,IMG_08_A,active
+8,IMG_08,STIM_08,The boy broke the vase.,active,IMG_08_A,exp_images/images/boy_broke_vase.jpg,exp_images/sentences/Vase.jpg,exp_images/audio/vase.wav,voice,Active_List_2,16,exp_images/audio/fed_dog.wav,Active_List_2,IMG_16,exp_images/images/girl_fed_dog.jpg,exp_images/sentences/Fed-Dog.jpg,voice,STIM_16,The girl fed the dog.,3,0,3,IMG_16_A,active
+13,IMG_13,STIM_13,The dog dug the hole.,active,IMG_13_A,exp_images/images/dog_dug_hole.jpg,exp_images/sentences/Dog-dug.jpg,exp_images/audio/dog_dug.wav,voice,Active_List_2,6,exp_images/audio/fold.wav,Active_List_2,IMG_06,exp_images/images/women_fold_clothes.jpg,exp_images/sentences/Folded-clothes.jpg,voice,STIM_06,The woman folded the clothes.,4,0,4,IMG_06_A,active
+14,IMG_14,STIM_14,The driver washed the scooter.,active,IMG_14_A,exp_images/images/driver_wash_scooter.jpg,exp_images/sentences/Washed-car.jpg,exp_images/audio/driver_washed_car.wav,voice,Active_List_2,15,exp_images/audio/girl_baked_cake.wav,Active_List_2,IMG_15,exp_images/images/girl_baked_cake.jpg,exp_images/sentences/Cake.jpg,voice,STIM_15,The girl baked the cake.,5,0,5,IMG_15_A,active
+15,IMG_15,STIM_15,The girl baked the cake.,active,IMG_15_A,exp_images/images/girl_baked_cake.jpg,exp_images/sentences/Cake.jpg,exp_images/audio/girl_baked_cake.wav,voice,Active_List_2,13,exp_images/audio/dog_dug.wav,Active_List_2,IMG_13,exp_images/images/dog_dug_hole.jpg,exp_images/sentences/Dog-dug.jpg,voice,STIM_13,The dog dug the hole.,6,0,6,IMG_13_A,active
+16,IMG_16,STIM_16,The girl fed the dog.,active,IMG_16_A,exp_images/images/girl_fed_dog.jpg,exp_images/sentences/Fed-Dog.jpg,exp_images/audio/fed_dog.wav,voice,Active_List_2,14,exp_images/audio/driver_washed_car.wav,Active_List_2,IMG_14,exp_images/images/driver_wash_scooter.jpg,exp_images/sentences/Washed-car.jpg,voice,STIM_14,The driver washed the scooter.,7,0,7,IMG_14_A,active
+
+extraInfo
+ID,1
+participant,
+Age,
+
+Gender,Male
+Dominant Eye,Right
+Dominant Hand,Right
+session,PUN
+EDF Filename,
+date,2025-03-17_14h03.11.275
+expName,PunjabiActivePassive
+psychopyVersion,2024.2.2
+frameRate,143.98640764666845
+expStart,2025-03-17 14h03.17.467452 +0530
+﻿No,image_id,stim_id,text,voice,voice_id,image,sentence,audio,session,filename,No_raw,audio_raw,filename_raw,image_id_raw,image_raw,sentence_raw,session_raw,stim_id_raw,text_raw,thisN_raw,thisRepN_raw,thisTrialN_raw,voice_id_raw,voice_raw
+17,IMG_01,STIM_17,P The girl lit the lamp.,passive,IMG_01_P,exp_images/images/girl_lighted_lamp.jpg,exp_images/sentences/Lamp-passive.jpg,exp_images/audio/p_lamp.wav,voice,Passive_List_2,18,exp_images/audio/p_window.wav,Passive_List_2,IMG_02,exp_images/images/girl_opened_window.jpg,exp_images/sentences/Window-passive.jpg,voice,STIM_18,P The girl opened the window.,0,0,0,IMG_02_P,passive
+18,IMG_02,STIM_18,P The girl opened the window.,passive,IMG_02_P,exp_images/images/girl_opened_window.jpg,exp_images/sentences/Window-passive.jpg,exp_images/audio/p_window.wav,voice,Passive_List_2,28,exp_images/audio/p_frisbee.wav,Passive_List_2,IMG_12,exp_images/images/child_throw_frisbee.jpg,exp_images/sentences/Frisbee-passive.jpg,voice,STIM_28,P The child threw the frisbee.,1,0,1,IMG_12_P,passive
+19,IMG_03,STIM_19,P The girl planted the sapling.,passive,IMG_03_P,exp_images/images/girl_plant_tree.jpg,exp_images/sentences/Tree-passive.jpg,exp_images/audio/p_tree.wav,voice,Passive_List_2,17,exp_images/audio/p_lamp.wav,Passive_List_2,IMG_01,exp_images/images/girl_lighted_lamp.jpg,exp_images/sentences/Lamp-passive.jpg,voice,STIM_17,P The girl lit the lamp.,2,0,2,IMG_01_P,passive
+20,IMG_04,STIM_20,P The man cut the shrub.,passive,IMG_04_P,exp_images/images/man_cut_shrub.jpg,exp_images/sentences/Grass-passive.jpg,exp_images/audio/p_grass.wav,voice,Passive_List_2,19,exp_images/audio/p_tree.wav,Passive_List_2,IMG_03,exp_images/images/girl_plant_tree.jpg,exp_images/sentences/Tree-passive.jpg,voice,STIM_19,P The girl planted the sapling.,3,0,3,IMG_03_P,passive
+25,IMG_09,STIM_25,P The boy filled the tub.,passive,IMG_09_P,exp_images/images/boy_filled_tub.jpg,exp_images/sentences/Bucket-passive.jpg,exp_images/audio/p_bucket.wav,voice,Passive_List_2,25,exp_images/audio/p_bucket.wav,Passive_List_2,IMG_09,exp_images/images/boy_filled_tub.jpg,exp_images/sentences/Bucket-passive.jpg,voice,STIM_25,P The boy filled the tub.,4,0,4,IMG_09_P,passive
+26,IMG_10,STIM_26,P The boy closed the door.,passive,IMG_10_P,exp_images/images/boy_opened_door.jpg,exp_images/sentences/Closed-door-passive.jpg,exp_images/audio/p_closed_door.wav,voice,Passive_List_2,27,exp_images/audio/p_tabla.wav,Passive_List_2,IMG_11,exp_images/images/child_play_tabla.jpg,exp_images/sentences/Tabla-passive.jpg,voice,STIM_27,P The child played the tabla.,5,0,5,IMG_11_P,passive
+27,IMG_11,STIM_27,P The child played the tabla.,passive,IMG_11_P,exp_images/images/child_play_tabla.jpg,exp_images/sentences/Tabla-passive.jpg,exp_images/audio/p_tabla.wav,voice,Passive_List_2,26,exp_images/audio/p_closed_door.wav,Passive_List_2,IMG_10,exp_images/images/boy_opened_door.jpg,exp_images/sentences/Closed-door-passive.jpg,voice,STIM_26,P The boy closed the door.,6,0,6,IMG_10_P,passive
+28,IMG_12,STIM_28,P The child threw the frisbee.,passive,IMG_12_P,exp_images/images/child_throw_frisbee.jpg,exp_images/sentences/Frisbee-passive.jpg,exp_images/audio/p_frisbee.wav,voice,Passive_List_2,20,exp_images/audio/p_grass.wav,Passive_List_2,IMG_04,exp_images/images/man_cut_shrub.jpg,exp_images/sentences/Grass-passive.jpg,voice,STIM_20,P The man cut the shrub.,7,0,7,IMG_04_P,passive
+
+extraInfo
+ID,1
+participant,
+Age,
+
+Gender,Male
+Dominant Eye,Right
+Dominant Hand,Right
+session,PUN
+EDF Filename,
+date,2025-03-17_14h03.11.275
+expName,PunjabiActivePassive
+psychopyVersion,2024.2.2
+frameRate,143.98640764666845
+expStart,2025-03-17 14h03.17.467452 +0530

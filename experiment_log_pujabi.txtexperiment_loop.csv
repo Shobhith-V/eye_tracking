@@ -1,0 +1,316 @@
+﻿No,image_id,stim_id,text,voice,voice_id,image,sentence,audio,session,filename,No_raw,audio_raw,filename_raw,image_id_raw,image_raw,sentence_raw,session_raw,stim_id_raw,text_raw,thisN_raw,thisRepN_raw,thisTrialN_raw,voice_id_raw,voice_raw
+5,IMG_05,STIM_05,The man pushed the box.,active,IMG_05_A,exp_images/images/man_pushed_box.jpg,exp_images/sentences/Pushed-car.jpg,exp_images/audio/pushed_car.wav,voice,Active_List_2,6,exp_images/audio/fold.wav,Active_List_2,IMG_06,exp_images/images/women_fold_clothes.jpg,exp_images/sentences/Folded-clothes.jpg,voice,STIM_06,The woman folded the clothes.,0,0,0,IMG_06_A,active
+6,IMG_06,STIM_06,The woman folded the clothes.,active,IMG_06_A,exp_images/images/women_fold_clothes.jpg,exp_images/sentences/Folded-clothes.jpg,exp_images/audio/fold.wav,voice,Active_List_2,5,exp_images/audio/pushed_car.wav,Active_List_2,IMG_05,exp_images/images/man_pushed_box.jpg,exp_images/sentences/Pushed-car.jpg,voice,STIM_05,The man pushed the box.,1,0,1,IMG_05_A,active
+
+extraInfo
+ID,1
+participant,P01
+Age,
+12
+Gender,Male
+Dominant Eye,Right
+Dominant Hand,Right
+session,PUN
+EDF Filename,EXP12
+date,2025-03-22_10h51.02.766
+expName,PunjabiActivePassive
+psychopyVersion,2024.2.2
+frameRate,144.28765188290666
+expStart,2025-03-22 10h52.22.228013 +0530
+﻿No,image_id,stim_id,text,voice,voice_id,image,sentence,audio,session,filename,No_raw,audio_raw,filename_raw,image_id_raw,image_raw,sentence_raw,session_raw,stim_id_raw,text_raw,thisN_raw,thisRepN_raw,thisTrialN_raw,voice_id_raw,voice_raw
+17,IMG_01,STIM_17,P The girl lit the lamp.,passive,IMG_01_P,exp_images/images/girl_lighted_lamp.jpg,exp_images/sentences/Lamp-passive.jpg,exp_images/audio/p_lamp.wav,voice,Passive_List_2,18,exp_images/audio/p_window.wav,Passive_List_2,IMG_02,exp_images/images/girl_opened_window.jpg,exp_images/sentences/Window-passive.jpg,voice,STIM_18,P The girl opened the window.,0,0,0,IMG_02_P,passive
+18,IMG_02,STIM_18,P The girl opened the window.,passive,IMG_02_P,exp_images/images/girl_opened_window.jpg,exp_images/sentences/Window-passive.jpg,exp_images/audio/p_window.wav,voice,Passive_List_2,17,exp_images/audio/p_lamp.wav,Passive_List_2,IMG_01,exp_images/images/girl_lighted_lamp.jpg,exp_images/sentences/Lamp-passive.jpg,voice,STIM_17,P The girl lit the lamp.,1,0,1,IMG_01_P,passive
+
+extraInfo
+ID,1
+participant,P01
+Age,
+12
+Gender,Male
+Dominant Eye,Right
+Dominant Hand,Right
+session,PUN
+EDF Filename,EXP12
+date,2025-03-22_10h51.02.766
+expName,PunjabiActivePassive
+psychopyVersion,2024.2.2
+frameRate,144.28765188290666
+expStart,2025-03-22 10h52.22.228013 +0530
+﻿No,image_id,stim_id,text,voice,voice_id,image,sentence,audio,session,filename,No_raw,audio_raw,filename_raw,image_id_raw,image_raw,sentence_raw,session_raw,stim_id_raw,text_raw,thisN_raw,thisRepN_raw,thisTrialN_raw,voice_id_raw,voice_raw
+5,IMG_05,STIM_05,The man pushed the box.,active,IMG_05_A,exp_images/images/man_pushed_box.jpg,exp_images/sentences/Pushed-car.jpg,exp_images/audio/pushed_car.wav,voice,Active_List_2,5,exp_images/audio/pushed_car.wav,Active_List_2,IMG_05,exp_images/images/man_pushed_box.jpg,exp_images/sentences/Pushed-car.jpg,voice,STIM_05,The man pushed the box.,0,0,0,IMG_05_A,active
+6,IMG_06,STIM_06,The woman folded the clothes.,active,IMG_06_A,exp_images/images/women_fold_clothes.jpg,exp_images/sentences/Folded-clothes.jpg,exp_images/audio/fold.wav,voice,Active_List_2,6,exp_images/audio/fold.wav,Active_List_2,IMG_06,exp_images/images/women_fold_clothes.jpg,exp_images/sentences/Folded-clothes.jpg,voice,STIM_06,The woman folded the clothes.,1,0,1,IMG_06_A,active
+
+extraInfo
+ID,1
+participant,P01
+Age,
+
+Gender,Male
+Dominant Eye,Right
+Dominant Hand,Right
+session,PUN
+EDF Filename,EDF12
+date,2025-03-22_12h13.19.642
+expName,PunjabiActivePassive
+psychopyVersion,2024.2.2
+frameRate,144.19506706799487
+expStart,2025-03-22 12h14.43.337065 +0530
+﻿No,image_id,stim_id,text,voice,voice_id,image,sentence,audio,session,filename,No_raw,audio_raw,filename_raw,image_id_raw,image_raw,sentence_raw,session_raw,stim_id_raw,text_raw,thisN_raw,thisRepN_raw,thisTrialN_raw,voice_id_raw,voice_raw
+17,IMG_01,STIM_17,P The girl lit the lamp.,passive,IMG_01_P,exp_images/images/girl_lighted_lamp.jpg,exp_images/sentences/Lamp-passive.jpg,exp_images/audio/p_lamp.wav,voice,Passive_List_2,18,exp_images/audio/p_window.wav,Passive_List_2,IMG_02,exp_images/images/girl_opened_window.jpg,exp_images/sentences/Window-passive.jpg,voice,STIM_18,P The girl opened the window.,0,0,0,IMG_02_P,passive
+18,IMG_02,STIM_18,P The girl opened the window.,passive,IMG_02_P,exp_images/images/girl_opened_window.jpg,exp_images/sentences/Window-passive.jpg,exp_images/audio/p_window.wav,voice,Passive_List_2,17,exp_images/audio/p_lamp.wav,Passive_List_2,IMG_01,exp_images/images/girl_lighted_lamp.jpg,exp_images/sentences/Lamp-passive.jpg,voice,STIM_17,P The girl lit the lamp.,1,0,1,IMG_01_P,passive
+
+extraInfo
+ID,1
+participant,P01
+Age,
+
+Gender,Male
+Dominant Eye,Right
+Dominant Hand,Right
+session,PUN
+EDF Filename,EDF12
+date,2025-03-22_12h13.19.642
+expName,PunjabiActivePassive
+psychopyVersion,2024.2.2
+frameRate,144.19506706799487
+expStart,2025-03-22 12h14.43.337065 +0530
+﻿No,image_id,stim_id,text,voice,voice_id,image,sentence,audio,session,filename,No_raw,audio_raw,filename_raw,image_id_raw,image_raw,sentence_raw,session_raw,stim_id_raw,text_raw,thisN_raw,thisRepN_raw,thisTrialN_raw,voice_id_raw,voice_raw
+9,IMG_09,STIM_09,The boy filled the tub.,active,IMG_09_A,exp_images/images/boy_filled_tub.jpg,exp_images/sentences/Bucket.jpg,exp_images/audio/bucket.wav,voice,Active_List_1,10,exp_images/audio/closed_door.wav,Active_List_1,IMG_10,exp_images/images/boy_opened_door.jpg,exp_images/sentences/Closed-door.jpg,voice,STIM_10,The boy closed the door.,0,0,0,IMG_10_A,active
+10,IMG_10,STIM_10,The boy closed the door.,active,IMG_10_A,exp_images/images/boy_opened_door.jpg,exp_images/sentences/Closed-door.jpg,exp_images/audio/closed_door.wav,voice,Active_List_1,9,exp_images/audio/bucket.wav,Active_List_1,IMG_09,exp_images/images/boy_filled_tub.jpg,exp_images/sentences/Bucket.jpg,voice,STIM_09,The boy filled the tub.,1,0,1,IMG_09_A,active
+
+extraInfo
+ID,12
+participant,p1
+Age,
+22
+Gender,Male
+Dominant Eye,Right
+Dominant Hand,Right
+session,PUN
+EDF Filename,edf01
+date,2025-03-22_12h30.29.774
+expName,PunjabiActivePassive
+psychopyVersion,2024.2.2
+frameRate,144.02912849836704
+expStart,2025-03-22 12h30.50.527852 +0530
+﻿No,image_id,stim_id,text,voice,voice_id,image,sentence,audio,session,filename,No_raw,audio_raw,filename_raw,image_id_raw,image_raw,sentence_raw,session_raw,stim_id_raw,text_raw,thisN_raw,thisRepN_raw,thisTrialN_raw,voice_id_raw,voice_raw
+17,IMG_01,STIM_17,P The girl lit the lamp.,passive,IMG_01_P,exp_images/images/girl_lighted_lamp.jpg,exp_images/sentences/Lamp-passive.jpg,exp_images/audio/p_lamp.wav,voice,Passive_List_1,18,exp_images/audio/p_window.wav,Passive_List_1,IMG_02,exp_images/images/girl_opened_window.jpg,exp_images/sentences/Window-passive.jpg,voice,STIM_18,P The girl opened the window.,0,0,0,IMG_02_P,passive
+18,IMG_02,STIM_18,P The girl opened the window.,passive,IMG_02_P,exp_images/images/girl_opened_window.jpg,exp_images/sentences/Window-passive.jpg,exp_images/audio/p_window.wav,voice,Passive_List_1,17,exp_images/audio/p_lamp.wav,Passive_List_1,IMG_01,exp_images/images/girl_lighted_lamp.jpg,exp_images/sentences/Lamp-passive.jpg,voice,STIM_17,P The girl lit the lamp.,1,0,1,IMG_01_P,passive
+
+extraInfo
+ID,12
+participant,p1
+Age,
+22
+Gender,Male
+Dominant Eye,Right
+Dominant Hand,Right
+session,PUN
+EDF Filename,edf01
+date,2025-03-22_12h30.29.774
+expName,PunjabiActivePassive
+psychopyVersion,2024.2.2
+frameRate,144.02912849836704
+expStart,2025-03-22 12h30.50.527852 +0530
+﻿No,image_id,stim_id,text,voice,voice_id,image,sentence,audio,session,filename,No_raw,audio_raw,filename_raw,image_id_raw,image_raw,sentence_raw,session_raw,stim_id_raw,text_raw,thisN_raw,thisRepN_raw,thisTrialN_raw,voice_id_raw,voice_raw
+9,IMG_09,STIM_09,The boy filled the tub.,active,IMG_09_A,exp_images/images/boy_filled_tub.jpg,exp_images/sentences/Bucket.jpg,exp_images/audio/bucket.wav,voice,Active_List_1,10,exp_images/audio/closed_door.wav,Active_List_1,IMG_10,exp_images/images/boy_opened_door.jpg,exp_images/sentences/Closed-door.jpg,voice,STIM_10,The boy closed the door.,0,0,0,IMG_10_A,active
+10,IMG_10,STIM_10,The boy closed the door.,active,IMG_10_A,exp_images/images/boy_opened_door.jpg,exp_images/sentences/Closed-door.jpg,exp_images/audio/closed_door.wav,voice,Active_List_1,9,exp_images/audio/bucket.wav,Active_List_1,IMG_09,exp_images/images/boy_filled_tub.jpg,exp_images/sentences/Bucket.jpg,voice,STIM_09,The boy filled the tub.,1,0,1,IMG_09_A,active
+
+extraInfo
+ID,12
+participant,p3
+Age,
+22
+Gender,Male
+Dominant Eye,Right
+Dominant Hand,Right
+session,PUN
+EDF Filename,edf2
+date,2025-03-22_13h50.18.780
+expName,PunjabiActivePassive
+psychopyVersion,2024.2.2
+frameRate,144.04717833557842
+expStart,2025-03-22 13h50.35.269734 +0530
+﻿No,image_id,stim_id,text,voice,voice_id,image,sentence,audio,session,filename,No_raw,audio_raw,filename_raw,image_id_raw,image_raw,sentence_raw,session_raw,stim_id_raw,text_raw,thisN_raw,thisRepN_raw,thisTrialN_raw,voice_id_raw,voice_raw
+17,IMG_01,STIM_17,P The girl lit the lamp.,passive,IMG_01_P,exp_images/images/girl_lighted_lamp.jpg,exp_images/sentences/Lamp-passive.jpg,exp_images/audio/p_lamp.wav,voice,Passive_List_1,17,exp_images/audio/p_lamp.wav,Passive_List_1,IMG_01,exp_images/images/girl_lighted_lamp.jpg,exp_images/sentences/Lamp-passive.jpg,voice,STIM_17,P The girl lit the lamp.,0,0,0,IMG_01_P,passive
+18,IMG_02,STIM_18,P The girl opened the window.,passive,IMG_02_P,exp_images/images/girl_opened_window.jpg,exp_images/sentences/Window-passive.jpg,exp_images/audio/p_window.wav,voice,Passive_List_1,18,exp_images/audio/p_window.wav,Passive_List_1,IMG_02,exp_images/images/girl_opened_window.jpg,exp_images/sentences/Window-passive.jpg,voice,STIM_18,P The girl opened the window.,1,0,1,IMG_02_P,passive
+
+extraInfo
+ID,12
+participant,p3
+Age,
+22
+Gender,Male
+Dominant Eye,Right
+Dominant Hand,Right
+session,PUN
+EDF Filename,edf2
+date,2025-03-22_13h50.18.780
+expName,PunjabiActivePassive
+psychopyVersion,2024.2.2
+frameRate,144.04717833557842
+expStart,2025-03-22 13h50.35.269734 +0530
+﻿No,image_id,stim_id,text,voice,voice_id,image,sentence,audio,session,filename,No_raw,audio_raw,filename_raw,image_id_raw,image_raw,sentence_raw,session_raw,stim_id_raw,text_raw,thisN_raw,thisRepN_raw,thisTrialN_raw,voice_id_raw,voice_raw
+1,IMG_01,STIM_01,The girl lit the lamp.,active,IMG_01_A,exp_images/images/girl_lighted_lamp.jpg,exp_images/sentences/Lamp.jpg,exp_images/audio/lamp.wav,voice,Active_List_4,1,exp_images/audio/lamp.wav,Active_List_4,IMG_01,exp_images/images/girl_lighted_lamp.jpg,exp_images/sentences/Lamp.jpg,voice,STIM_01,The girl lit the lamp.,0,0,0,IMG_01_A,active
+2,IMG_02,STIM_02,The girl opened the window.,active,IMG_02_A,exp_images/images/girl_opened_window.jpg,exp_images/sentences/Window.jpg,exp_images/audio/window.wav,voice,Active_List_4,2,exp_images/audio/window.wav,Active_List_4,IMG_02,exp_images/images/girl_opened_window.jpg,exp_images/sentences/Window.jpg,voice,STIM_02,The girl opened the window.,1,0,1,IMG_02_A,active
+
+extraInfo
+ID,3
+participant,p03
+Age,
+22
+Gender,Male
+Dominant Eye,Right
+Dominant Hand,Right
+session,PUN
+EDF Filename,edf03
+date,2025-03-22_13h57.01.712
+expName,PunjabiActivePassive
+psychopyVersion,2024.2.2
+frameRate,144.25351684271376
+expStart,2025-03-22 13h57.29.862259 +0530
+﻿No,image_id,stim_id,text,voice,voice_id,image,sentence,audio,session,filename,No_raw,audio_raw,filename_raw,image_id_raw,image_raw,sentence_raw,session_raw,stim_id_raw,text_raw,thisN_raw,thisRepN_raw,thisTrialN_raw,voice_id_raw,voice_raw
+21,IMG_05,STIM_21,P The man pushed the box.,passive,IMG_05_P,exp_images/images/man_pushed_box.jpg,exp_images/sentences/Pushed-car-passive.jpg,exp_images/audio/p_pushed_car.wav,voice,Passive_List_4,22,exp_images/audio/p_fold.wav,Passive_List_4,IMG_06,exp_images/images/women_fold_clothes.jpg,exp_images/sentences/Folded-clothes-passive.jpg,voice,STIM_22,P The woman folded the clothes.,0,0,0,IMG_06_P,passive
+22,IMG_06,STIM_22,P The woman folded the clothes.,passive,IMG_06_P,exp_images/images/women_fold_clothes.jpg,exp_images/sentences/Folded-clothes-passive.jpg,exp_images/audio/p_fold.wav,voice,Passive_List_4,21,exp_images/audio/p_pushed_car.wav,Passive_List_4,IMG_05,exp_images/images/man_pushed_box.jpg,exp_images/sentences/Pushed-car-passive.jpg,voice,STIM_21,P The man pushed the box.,1,0,1,IMG_05_P,passive
+
+extraInfo
+ID,3
+participant,p03
+Age,
+22
+Gender,Male
+Dominant Eye,Right
+Dominant Hand,Right
+session,PUN
+EDF Filename,edf03
+date,2025-03-22_13h57.01.712
+expName,PunjabiActivePassive
+psychopyVersion,2024.2.2
+frameRate,144.25351684271376
+expStart,2025-03-22 13h57.29.862259 +0530
+﻿No,image_id,stim_id,text,voice,voice_id,image,sentence,audio,session,filename,No_raw,audio_raw,filename_raw,image_id_raw,image_raw,sentence_raw,session_raw,stim_id_raw,text_raw,thisN_raw,thisRepN_raw,thisTrialN_raw,voice_id_raw,voice_raw
+1,IMG_01,STIM_01,The girl lit the lamp.,active,IMG_01_A,exp_images/images/girl_lighted_lamp.jpg,exp_images/sentences/Lamp.jpg,exp_images/audio/lamp.wav,voice,Active_List_5,2,exp_images/audio/window.wav,Active_List_5,IMG_02,exp_images/images/girl_opened_window.jpg,exp_images/sentences/Window.jpg,voice,STIM_02,The girl opened the window.,0,0,0,IMG_02_A,active
+2,IMG_02,STIM_02,The girl opened the window.,active,IMG_02_A,exp_images/images/girl_opened_window.jpg,exp_images/sentences/Window.jpg,exp_images/audio/window.wav,voice,Active_List_5,1,exp_images/audio/lamp.wav,Active_List_5,IMG_01,exp_images/images/girl_lighted_lamp.jpg,exp_images/sentences/Lamp.jpg,voice,STIM_01,The girl lit the lamp.,1,0,1,IMG_01_A,active
+
+extraInfo
+ID,04
+participant,p04
+Age,
+22
+Gender,Male
+Dominant Eye,Right
+Dominant Hand,Right
+session,PUN
+EDF Filename,edf04
+date,2025-03-22_14h05.12.825
+expName,PunjabiActivePassive
+psychopyVersion,2024.2.2
+frameRate,142.29285007658666
+expStart,2025-03-22 14h05.39.500412 +0530
+﻿No,image_id,stim_id,text,voice,voice_id,image,sentence,audio,session,filename,No_raw,audio_raw,filename_raw,image_id_raw,image_raw,sentence_raw,session_raw,stim_id_raw,text_raw,thisN_raw,thisRepN_raw,thisTrialN_raw,voice_id_raw,voice_raw
+21,IMG_05,STIM_21,P The man pushed the box.,passive,IMG_05_P,exp_images/images/man_pushed_box.jpg,exp_images/sentences/Pushed-car-passive.jpg,exp_images/audio/p_pushed_car.wav,voice,Passive_List_5,21,exp_images/audio/p_pushed_car.wav,Passive_List_5,IMG_05,exp_images/images/man_pushed_box.jpg,exp_images/sentences/Pushed-car-passive.jpg,voice,STIM_21,P The man pushed the box.,0,0,0,IMG_05_P,passive
+22,IMG_06,STIM_22,P The woman folded the clothes.,passive,IMG_06_P,exp_images/images/women_fold_clothes.jpg,exp_images/sentences/Folded-clothes-passive.jpg,exp_images/audio/p_fold.wav,voice,Passive_List_5,22,exp_images/audio/p_fold.wav,Passive_List_5,IMG_06,exp_images/images/women_fold_clothes.jpg,exp_images/sentences/Folded-clothes-passive.jpg,voice,STIM_22,P The woman folded the clothes.,1,0,1,IMG_06_P,passive
+
+extraInfo
+ID,04
+participant,p04
+Age,
+22
+Gender,Male
+Dominant Eye,Right
+Dominant Hand,Right
+session,PUN
+EDF Filename,edf04
+date,2025-03-22_14h05.12.825
+expName,PunjabiActivePassive
+psychopyVersion,2024.2.2
+frameRate,142.29285007658666
+expStart,2025-03-22 14h05.39.500412 +0530
+﻿No,image_id,stim_id,text,voice,voice_id,image,sentence,audio,session,filename,No_raw,audio_raw,filename_raw,image_id_raw,image_raw,sentence_raw,session_raw,stim_id_raw,text_raw,thisN_raw,thisRepN_raw,thisTrialN_raw,voice_id_raw,voice_raw
+1,IMG_01,STIM_01,The girl lit the lamp.,active,IMG_01_A,exp_images/images/girl_lighted_lamp.jpg,exp_images/sentences/Lamp.jpg,exp_images/audio/lamp.wav,voice,Active_List_6,1,exp_images/audio/lamp.wav,Active_List_6,IMG_01,exp_images/images/girl_lighted_lamp.jpg,exp_images/sentences/Lamp.jpg,voice,STIM_01,The girl lit the lamp.,0,0,0,IMG_01_A,active
+2,IMG_02,STIM_02,The girl opened the window.,active,IMG_02_A,exp_images/images/girl_opened_window.jpg,exp_images/sentences/Window.jpg,exp_images/audio/window.wav,voice,Active_List_6,2,exp_images/audio/window.wav,Active_List_6,IMG_02,exp_images/images/girl_opened_window.jpg,exp_images/sentences/Window.jpg,voice,STIM_02,The girl opened the window.,1,0,1,IMG_02_A,active
+
+extraInfo
+ID,05
+participant,p05
+Age,
+22
+Gender,Female
+Dominant Eye,Right
+Dominant Hand,Right
+session,PUN
+EDF Filename,p05
+date,2025-03-22_14h12.09.635
+expName,PunjabiActivePassive
+psychopyVersion,2024.2.2
+frameRate,144.1416508811025
+expStart,2025-03-22 14h12.39.203933 +0530
+﻿No,image_id,stim_id,text,voice,voice_id,image,sentence,audio,session,filename,No_raw,audio_raw,filename_raw,image_id_raw,image_raw,sentence_raw,session_raw,stim_id_raw,text_raw,thisN_raw,thisRepN_raw,thisTrialN_raw,voice_id_raw,voice_raw
+25,IMG_09,STIM_25,P The boy filled the tub.,passive,IMG_09_P,exp_images/images/boy_filled_tub.jpg,exp_images/sentences/Bucket-passive.jpg,exp_images/audio/p_bucket.wav,voice,Passive_List_6,26,exp_images/audio/p_closed_door.wav,Passive_List_6,IMG_10,exp_images/images/boy_opened_door.jpg,exp_images/sentences/Closed-door-passive.jpg,voice,STIM_26,P The boy closed the door.,0,0,0,IMG_10_P,passive
+26,IMG_10,STIM_26,P The boy closed the door.,passive,IMG_10_P,exp_images/images/boy_opened_door.jpg,exp_images/sentences/Closed-door-passive.jpg,exp_images/audio/p_closed_door.wav,voice,Passive_List_6,25,exp_images/audio/p_bucket.wav,Passive_List_6,IMG_09,exp_images/images/boy_filled_tub.jpg,exp_images/sentences/Bucket-passive.jpg,voice,STIM_25,P The boy filled the tub.,1,0,1,IMG_09_P,passive
+
+extraInfo
+ID,05
+participant,p05
+Age,
+22
+Gender,Female
+Dominant Eye,Right
+Dominant Hand,Right
+session,PUN
+EDF Filename,p05
+date,2025-03-22_14h12.09.635
+expName,PunjabiActivePassive
+psychopyVersion,2024.2.2
+frameRate,144.1416508811025
+expStart,2025-03-22 14h12.39.203933 +0530
+﻿No,image_id,stim_id,text,voice,voice_id,image,sentence,audio,session,filename,No_raw,audio_raw,filename_raw,image_id_raw,image_raw,sentence_raw,session_raw,stim_id_raw,text_raw,thisN_raw,thisRepN_raw,thisTrialN_raw,voice_id_raw,voice_raw
+9,IMG_09,STIM_09,The boy filled the tub.,active,IMG_09_A,exp_images/images/boy_filled_tub.jpg,exp_images/sentences/Bucket.jpg,exp_images/audio/bucket.wav,voice,Active_List_1,13,exp_images/audio/dog_dug.wav,Active_List_1,IMG_13,exp_images/images/dog_dug_hole.jpg,exp_images/sentences/Dog-dug.jpg,voice,STIM_13,The dog dug the hole.,0,0,0,IMG_13_A,active
+10,IMG_10,STIM_10,The boy closed the door.,active,IMG_10_A,exp_images/images/boy_opened_door.jpg,exp_images/sentences/Closed-door.jpg,exp_images/audio/closed_door.wav,voice,Active_List_1,14,exp_images/audio/driver_washed_car.wav,Active_List_1,IMG_14,exp_images/images/driver_wash_scooter.jpg,exp_images/sentences/Washed-car.jpg,voice,STIM_14,The driver washed the scooter.,1,0,1,IMG_14_A,active
+11,IMG_11,STIM_11,The child played the tabla.,active,IMG_11_A,exp_images/images/child_play_tabla.jpg,exp_images/sentences/Tabla.jpg,exp_images/audio/tabla.wav,voice,Active_List_1,15,exp_images/audio/girl_baked_cake.wav,Active_List_1,IMG_15,exp_images/images/girl_baked_cake.jpg,exp_images/sentences/Cake.jpg,voice,STIM_15,The girl baked the cake.,2,0,2,IMG_15_A,active
+12,IMG_12,STIM_12,The child threw the frisbee.,active,IMG_12_A,exp_images/images/child_throw_frisbee.jpg,exp_images/sentences/Frisbee.jpg,exp_images/audio/frisbee.wav,voice,Active_List_1,11,exp_images/audio/tabla.wav,Active_List_1,IMG_11,exp_images/images/child_play_tabla.jpg,exp_images/sentences/Tabla.jpg,voice,STIM_11,The child played the tabla.,3,0,3,IMG_11_A,active
+13,IMG_13,STIM_13,The dog dug the hole.,active,IMG_13_A,exp_images/images/dog_dug_hole.jpg,exp_images/sentences/Dog-dug.jpg,exp_images/audio/dog_dug.wav,voice,Active_List_1,16,exp_images/audio/fed_dog.wav,Active_List_1,IMG_16,exp_images/images/girl_fed_dog.jpg,exp_images/sentences/Fed-Dog.jpg,voice,STIM_16,The girl fed the dog.,4,0,4,IMG_16_A,active
+14,IMG_14,STIM_14,The driver washed the scooter.,active,IMG_14_A,exp_images/images/driver_wash_scooter.jpg,exp_images/sentences/Washed-car.jpg,exp_images/audio/driver_washed_car.wav,voice,Active_List_1,9,exp_images/audio/bucket.wav,Active_List_1,IMG_09,exp_images/images/boy_filled_tub.jpg,exp_images/sentences/Bucket.jpg,voice,STIM_09,The boy filled the tub.,5,0,5,IMG_09_A,active
+15,IMG_15,STIM_15,The girl baked the cake.,active,IMG_15_A,exp_images/images/girl_baked_cake.jpg,exp_images/sentences/Cake.jpg,exp_images/audio/girl_baked_cake.wav,voice,Active_List_1,10,exp_images/audio/closed_door.wav,Active_List_1,IMG_10,exp_images/images/boy_opened_door.jpg,exp_images/sentences/Closed-door.jpg,voice,STIM_10,The boy closed the door.,6,0,6,IMG_10_A,active
+16,IMG_16,STIM_16,The girl fed the dog.,active,IMG_16_A,exp_images/images/girl_fed_dog.jpg,exp_images/sentences/Fed-Dog.jpg,exp_images/audio/fed_dog.wav,voice,Active_List_1,12,exp_images/audio/frisbee.wav,Active_List_1,IMG_12,exp_images/images/child_throw_frisbee.jpg,exp_images/sentences/Frisbee.jpg,voice,STIM_12,The child threw the frisbee.,7,0,7,IMG_12_A,active
+
+extraInfo
+ID,12
+participant,p03
+Age,
+23
+Gender,Male
+Dominant Eye,Right
+Dominant Hand,Right
+session,PUN
+EDF Filename,EDF12
+date,2025-03-22_14h33.47.040
+expName,PunjabiActivePassive
+psychopyVersion,2024.2.2
+frameRate,144.16450899507876
+expStart,2025-03-22 14h34.04.571769 +0530
+﻿No,image_id,stim_id,text,voice,voice_id,image,sentence,audio,session,filename,No_raw,audio_raw,filename_raw,image_id_raw,image_raw,sentence_raw,session_raw,stim_id_raw,text_raw,thisN_raw,thisRepN_raw,thisTrialN_raw,voice_id_raw,voice_raw
+17,IMG_01,STIM_17,P The girl lit the lamp.,passive,IMG_01_P,exp_images/images/girl_lighted_lamp.jpg,exp_images/sentences/Lamp-passive.jpg,exp_images/audio/p_lamp.wav,voice,Passive_List_1,17,exp_images/audio/p_lamp.wav,Passive_List_1,IMG_01,exp_images/images/girl_lighted_lamp.jpg,exp_images/sentences/Lamp-passive.jpg,voice,STIM_17,P The girl lit the lamp.,0,0,0,IMG_01_P,passive
+18,IMG_02,STIM_18,P The girl opened the window.,passive,IMG_02_P,exp_images/images/girl_opened_window.jpg,exp_images/sentences/Window-passive.jpg,exp_images/audio/p_window.wav,voice,Passive_List_1,24,exp_images/audio/p_vase.wav,Passive_List_1,IMG_08,exp_images/images/boy_broke_vase.jpg,exp_images/sentences/Vase-passive.jpg,voice,STIM_24,P The boy broke the vase.,1,0,1,IMG_08_P,passive
+19,IMG_03,STIM_19,P The girl planted the sapling.,passive,IMG_03_P,exp_images/images/girl_plant_tree.jpg,exp_images/sentences/Tree-passive.jpg,exp_images/audio/p_tree.wav,voice,Passive_List_1,23,exp_images/audio/p_painting.wav,Passive_List_1,IMG_07,exp_images/images/artiste_drew_picture.jpg,exp_images/sentences/Painting-passive.jpg,voice,STIM_23,P The artist drew the picture.,2,0,2,IMG_07_P,passive
+20,IMG_04,STIM_20,P The man cut the shrub.,passive,IMG_04_P,exp_images/images/man_cut_shrub.jpg,exp_images/sentences/Grass-passive.jpg,exp_images/audio/p_grass.wav,voice,Passive_List_1,18,exp_images/audio/p_window.wav,Passive_List_1,IMG_02,exp_images/images/girl_opened_window.jpg,exp_images/sentences/Window-passive.jpg,voice,STIM_18,P The girl opened the window.,3,0,3,IMG_02_P,passive
+21,IMG_05,STIM_21,P The man pushed the box.,passive,IMG_05_P,exp_images/images/man_pushed_box.jpg,exp_images/sentences/Pushed-car-passive.jpg,exp_images/audio/p_pushed_car.wav,voice,Passive_List_1,20,exp_images/audio/p_grass.wav,Passive_List_1,IMG_04,exp_images/images/man_cut_shrub.jpg,exp_images/sentences/Grass-passive.jpg,voice,STIM_20,P The man cut the shrub.,4,0,4,IMG_04_P,passive
+22,IMG_06,STIM_22,P The woman folded the clothes.,passive,IMG_06_P,exp_images/images/women_fold_clothes.jpg,exp_images/sentences/Folded-clothes-passive.jpg,exp_images/audio/p_fold.wav,voice,Passive_List_1,21,exp_images/audio/p_pushed_car.wav,Passive_List_1,IMG_05,exp_images/images/man_pushed_box.jpg,exp_images/sentences/Pushed-car-passive.jpg,voice,STIM_21,P The man pushed the box.,5,0,5,IMG_05_P,passive
+23,IMG_07,STIM_23,P The artist drew the picture.,passive,IMG_07_P,exp_images/images/artiste_drew_picture.jpg,exp_images/sentences/Painting-passive.jpg,exp_images/audio/p_painting.wav,voice,Passive_List_1,22,exp_images/audio/p_fold.wav,Passive_List_1,IMG_06,exp_images/images/women_fold_clothes.jpg,exp_images/sentences/Folded-clothes-passive.jpg,voice,STIM_22,P The woman folded the clothes.,6,0,6,IMG_06_P,passive
+24,IMG_08,STIM_24,P The boy broke the vase.,passive,IMG_08_P,exp_images/images/boy_broke_vase.jpg,exp_images/sentences/Vase-passive.jpg,exp_images/audio/p_vase.wav,voice,Passive_List_1,19,exp_images/audio/p_tree.wav,Passive_List_1,IMG_03,exp_images/images/girl_plant_tree.jpg,exp_images/sentences/Tree-passive.jpg,voice,STIM_19,P The girl planted the sapling.,7,0,7,IMG_03_P,passive
+
+extraInfo
+ID,12
+participant,p03
+Age,
+23
+Gender,Male
+Dominant Eye,Right
+Dominant Hand,Right
+session,PUN
+EDF Filename,EDF12
+date,2025-03-22_14h33.47.040
+expName,PunjabiActivePassive
+psychopyVersion,2024.2.2
+frameRate,144.16450899507876
+expStart,2025-03-22 14h34.04.571769 +0530
